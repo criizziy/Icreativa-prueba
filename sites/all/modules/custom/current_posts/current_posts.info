@@ -1,0 +1,6 @@
+name = Current Posts
+description = Description of what this module does
+core = 7.x
+
+; NEW LINE
+configure = admin/config/content/current_posts
